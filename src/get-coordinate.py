@@ -22,7 +22,7 @@ def click_event(event, x, y, flags, param):
         
         print(refPt)
 
-img = cv2.imread('/media/two-asus/Two3/AIT/DLCV/DLCV-Lab/assignment-1/100-images/img100.jpg')
+img = cv2.imread('/media/two-asus/Two3/AIT/DLCV/DLCV-Lab/assignment-1/data-100-images/img100.jpg')
 original_img = img.copy()
 
 cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
