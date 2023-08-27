@@ -1,4 +1,5 @@
 # Deel Learnig for Computer Vision Homewrok 1
+# https://github.com/twoise/DLCV-Assignment-1
 
 - In src have code for draw rectagle
 - 1. Get images from ip camera (cap-img-ipcam.py)
